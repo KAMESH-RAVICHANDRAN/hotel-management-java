@@ -138,6 +138,10 @@ cd hotel-management-java
 
 java -cp "S:\your-folder-name-here\hotel-management-java\hotel-management\bin;S:\hotel-management-kamesh\hotel-management-java\hotel-management\External_JARS\mysql-connector-java-5.1.47-bin.jar;S:\hotel-management-kamesh\hotel-management-java\hotel-management\External_JARS\jcalendar-1.4.jar" hotel.loginPage
 
+(or)
+Try the shortest option... run from any dir ... also replace with your source code cloned dir name that is replace that howzz-it with your's
+S:\howzz-it\run-hotel 
+
 
 ```
 

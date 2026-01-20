@@ -136,9 +136,8 @@ cd hotel-management-java
 
 ```cmd2. **XAMPP (for MySQL Database)**#### **Step 3: Setup Database**
 
-cd hotel-management
+java -cp "S:\your-folder-name-here\hotel-management-java\hotel-management\bin;S:\hotel-management-kamesh\hotel-management-java\hotel-management\External_JARS\mysql-connector-java-5.1.47-bin.jar;S:\hotel-management-kamesh\hotel-management-java\hotel-management\External_JARS\jcalendar-1.4.jar" hotel.loginPage
 
-java -cp "bin;External_JARS/*" hotel.loginPage   - Download from: https://www.apachefriends.org/download.html1. Start MySQL in XAMPP Control Panel (click "Start" button)
 
 ```
 
